@@ -1,0 +1,29 @@
+刚开始试过
+http://home.9ku.com/
+http://www.9ku.com/
+使用这个地址才抓到了cookie
+response = opener.open("http://home.9ku.com/space.php?do=home")
+--------------【如何实现从9k.com下载你想要的音乐】------------------------
+class downMusic:
+成员变量：
+最大下载歌曲数：
+MAXDOWN = 10
+def  __init__(singerName):
+
+成员函数:
+def login(name,password)
+返回cookie列表
+
+
+def getSingerSongNameList(singerName)
+返回songNameList
+
+
+def getMusicDownUrlList(musicNameList)
+返回字典dir={musicName：musicDownUrl}
+
+def downAndWritFiles(dir={musicName：musicDownUrl},phCookList)
+返回none
+
+
+def phCookie2urlcookie(Phookie):
