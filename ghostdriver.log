@@ -1,0 +1,7 @@
+PhantomJS is launching GhostDriver...
+[INFO  - 2016-05-05T04:28:18.251Z] GhostDriver - Main - running on port 53784
+[INFO  - 2016-05-05T04:28:19.498Z] Session [cb70d110-1279-11e6-80c8-31a5893b95df] - CONSTRUCTOR - Desired Capabilities: {"platform":"ANY","browserName":"phantomjs","version":"","javascriptEnabled":true}
+[INFO  - 2016-05-05T04:28:19.498Z] Session [cb70d110-1279-11e6-80c8-31a5893b95df] - CONSTRUCTOR - Negotiated Capabilities: {"browserName":"phantomjs","version":"1.9.0","driverName":"ghostdriver","driverVersion":"1.0.3","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-05-05T04:28:19.498Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cb70d110-1279-11e6-80c8-31a5893b95df
+[INFO  - 2016-05-05T04:33:18.249Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-05-05T04:33:18.250Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'cb70d110-1279-11e6-80c8-31a5893b95df', because windowless
